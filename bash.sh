@@ -1,4 +1,4 @@
-os.system("xdg-open fb://group/1148797432715185?ref=share&mibextid=NSMWBT")
+
 echo " ~~ INITIALIZING ~~ ";
 
 echo "(would use cowsay, but I still need to find the repo for
